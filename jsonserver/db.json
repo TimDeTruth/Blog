@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "MANUAL blog",
+      "content": "content for my post"
+    },
+    {
+      "id": 2,
+      "title": "MANUAL blog2",
+      "content": "content for my post"
+    },
+    {
+      "title": "5522",
+      "content": "55",
+      "id": "3a58"
+    }
+  ]
+}
