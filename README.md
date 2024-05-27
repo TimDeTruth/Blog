@@ -15,6 +15,17 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+3. In a seperate terminal start jsonserver
+
+   ```bash
+    cd jsonserver
+    npx expo start
+   ```
+4. In a seperate terminal start ngrok
+
+   ```bash
+    ngrok http 3000
+   ```
 
 In the output, you'll find options to open the app in a
 
@@ -48,3 +59,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Blog List
+![Screenshot_475](https://github.com/TimDeTruth/Blog/assets/64127471/9b6b2692-da3f-4f1a-843f-80eb3c74cccb)
+## Creating a blog
+![Screenshot_474](https://github.com/TimDeTruth/Blog/assets/64127471/3b4404c8-0b2d-4f4d-a776-2ac4fff903a1)
+## Edit a blog
+![Screenshot_476](https://github.com/TimDeTruth/Blog/assets/64127471/89f05d59-ccd3-4255-a87d-fce909ecb06a)
+
